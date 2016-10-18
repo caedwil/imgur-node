@@ -1,0 +1,11 @@
+{
+  "name": "imgur-node",
+  "version": "0.1.0",
+  "description": "An easy-to-use wrapper for version 3 of the imgur API.",
+  "author": "Daniel Stevenson <daniel.w.a.stevenson@gmail.com>",
+  "license": "GPL-3.0",
+  "main": "./lib/index.js",
+  "files": [
+    "lib"
+  ]
+}
