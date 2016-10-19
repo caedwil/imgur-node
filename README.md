@@ -44,5 +44,9 @@ imgur.request(options, (err, res) => {
 });
 ```
 
+#### Links
+[Documentation]()
+
 #### License
-This project uses GPL-3.0. For more information, click [here]().
+This project uses GPL-3.0. For more information, click
+[here](https://github.com/caedwil/imgur-node/blob/master/LICENSE.md).
