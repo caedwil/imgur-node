@@ -45,7 +45,8 @@ imgur.request(options, (err, res) => {
 ```
 
 #### Links
-[Documentation]()
+* [Documentation](https://github.com/caedwil/imgur-node/tree/master/docs)
+* [Known Issues](https://github.com/caedwil/imgur-node/blob/master/ISSUES.md)
 
 #### License
 This project uses GPL-3.0. For more information, click
